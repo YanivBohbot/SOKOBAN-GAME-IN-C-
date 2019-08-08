@@ -1,0 +1,42 @@
+﻿<Window x:Class="SOKOBAN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SOKOBAN"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="648.5" Width="611.5" ResizeMode="NoResize">
+    <Canvas Background="#FFF0DF3C" Margin="0,0,-6,0" RenderTransformOrigin="0.493,0.491">
+        <Canvas x:Name="canvas_gride" Height="504.045" Canvas.Left="44.333" Canvas.Top="94.824" Width="507.667" Background="Black" RenderTransformOrigin="0.512,0.482">
+            <Canvas.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.189"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.765"/>
+                </TransformGroup>
+            </Canvas.RenderTransform>
+        </Canvas>
+        <Canvas x:Name="cnv_Mobile" Height="501.045" Width="507.667" Canvas.Left="45.5" Canvas.Top="96.455"/>
+        <Button x:Name="btn_restart" Content="restart " Canvas.Left="70.009" Canvas.Top="34.333" Width="104.314" RenderTransformOrigin="0.5,0.5" Height="30.627" FontFamily="Segoe UI Black" FontSize="16" Click="btn_restart_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.739"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.303"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock x:Name="txt_numbermoves" Canvas.Left="207" TextWrapping="Wrap" Canvas.Top="35" Height="32" Width="195" FontFamily="Segoe UI Black" RenderTransformOrigin="0.549,0.81" FontSize="16">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.169"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.363"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="Numbers  of moves"/><Run Text="     :"/></TextBlock>
+        <TextBlock x:Name="txt_bock_count" Canvas.Left="413" TextWrapping="Wrap" Canvas.Top="37" Height="24" Width="54" FontSize="16"><Run Text="    "/><Run FontWeight="Bold" Text="0"/></TextBlock>
+    </Canvas>
+</Window>

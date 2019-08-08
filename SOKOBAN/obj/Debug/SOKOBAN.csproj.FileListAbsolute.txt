@@ -1,0 +1,14 @@
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\bin\Debug\SOKOBAN.exe.config
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\bin\Debug\SOKOBAN.exe
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\bin\Debug\SOKOBAN.pdb
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\MainWindow.g.cs
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\App.g.cs
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN_MarkupCompile.cache
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN_MarkupCompile.lref
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\MainWindow.baml
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN.g.resources
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN.Properties.Resources.resources
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN.csproj.GenerateResource.Cache
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN.exe
+c:\users\yaniv\documents\visual studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN.pdb
+C:\Users\yaniv\Documents\Visual Studio 2015\Projects\SOKOBAN\SOKOBAN\obj\Debug\SOKOBAN.csprojResolveAssemblyReference.cache
